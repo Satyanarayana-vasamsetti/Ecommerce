@@ -1,0 +1,20 @@
+.laptop-section{
+  padding: 2rem 0rem;
+}
+.laptop-section .card img{
+  width: 100%;
+  height: 300px;
+  object-fit: contain;
+}
+.card img:hover{
+  transform: scale(1.01);
+}
+.card{
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+}
+.card-body{
+  margin-top: -30px;
+}
+.btn{
+  font-weight: bold;
+}
